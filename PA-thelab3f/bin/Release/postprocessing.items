@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="PA-thelab3f.app/Contents/MacOS/PA-thelab3f">
+      <BCSymbolMapName>PA-thelab3f.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>PA-thelab3f.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/maria/Projects/PA-thelab3f/PA-thelab3f/obj/Release/mtouch-symbols.list</SymbolFile>
+      <DSymName>PA-thelab3f.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/maria/Projects/PA-thelab3f/PA-thelab3f</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

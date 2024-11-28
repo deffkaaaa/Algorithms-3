@@ -1,0 +1,23 @@
+# Version: 9.3.0. (xcode14.3: 9defd91b3)
+/Library/Frameworks/Xamarin.Mac.framework/Versions/9.3.0.23/lib/mmp/mmp.exe \
+	/Library/Frameworks/Xamarin.Mac.framework/Versions/9.3.0.23/bin/../lib/mmp/mmp.exe \
+	'/target-framework:Xamarin.Mac,Version=v2.0,Profile=Mobile' \
+	--http-message-handler=HttpClientHandler \
+	--cache=/Users/maria/Projects/PA-thelab3f/PA-thelab3f/obj/Release/mmp-cache \
+	--root-assembly=/Users/maria/Projects/PA-thelab3f/PA-thelab3f/bin/Release/PA-thelab3f.exe \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--targetver=10.12 \
+	-q \
+	-q \
+	-q \
+	-q \
+	/output:/Users/maria/Projects/PA-thelab3f/PA-thelab3f/bin/Release/ \
+	/name:PA-thelab3f \
+	/abi:x86_64 \
+	/linksdkonly \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Facades/System.Drawing.Common.dll \
+	/reference:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	@/Users/maria/Projects/PA-thelab3f/PA-thelab3f/obj/Release/response-file.rsp \

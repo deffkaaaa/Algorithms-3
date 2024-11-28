@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{42DACCAD-C1DE-4946-9A58-D1B0BF07DF37}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PA-thelab3f/BTreeNode.cs">
+    <Files>
+      <File FileName="PA-thelab3f/AppDelegate.cs" Line="23" Column="2" />
+      <File FileName="PA-thelab3f/ViewController.designer.cs" Line="21" Column="31" />
+      <File FileName="PA-thelab3f/ViewController.cs" Line="141" Column="10" />
+      <File FileName="PA-thelab3f/BTreeNode.cs" Line="146" Column="22" />
+      <File FileName="PA-thelab3f/Main.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PA-thelab3f" expanded="True">
+            <Node name="PA-thelab3f" expanded="True">
+              <Node name="BTreeNode.cs" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PA-thelab3f PreferredExecutionTarget="MyMacID" />
+</Properties>
